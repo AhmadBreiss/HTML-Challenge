@@ -1,0 +1,42 @@
+ h1{
+    text-align: center;
+    font-size: 50px;
+ }
+  
+ .menu {
+background-color: black;
+padding: 20px;
+border-radius: 20px;
+ }
+
+ a{
+     color: aliceblue;
+     text-align: center;
+     padding: 20px 40px;
+ }
+    
+body{
+    background-color: rgb(176, 107, 223);
+}
+h2{
+    text-align: center;
+    font-size: 30;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+ul{
+    font-size: 25px;
+}
+li{
+    font-size: 20px;
+    text-align: left;
+}
+.foot{
+    font-size: 12px; 
+}
+.foot a {
+    margin: 0%;
+    padding: 0 !important;
+}
